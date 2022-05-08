@@ -1,1 +1,3 @@
-# simpleapp
+# SimpleApp
+
+## A simple static webpage
